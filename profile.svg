@@ -37,21 +37,20 @@ text, tspan {white-space: pre;}
 </text>
 <text x="380" y="35" fill="#c9d1d9" xml:space="preserve">
 <tspan x="380" y="35">goncalo@moura</tspan> ————————————————————————————————————————————
-<tspan x="380" y="52" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">macOS, Ubuntu 24.04, iOS</tspan>
+<tspan x="380" y="52" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">macOS, Windows, Ubuntu 24.04, iOS</tspan>
 <tspan x="380" y="69" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ....................................... </tspan><tspan class="value">20 years</tspan>
 <tspan x="380" y="86" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">Universidade de Aveiro</tspan>
 <tspan x="380" y="103" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Computer Engineering (LECI)</tspan>
-<tspan x="380" y="120" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">VSCode, IntelliJ IDEA, Vim</tspan>
+<tspan x="380" y="120" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">VSCode, Vim</tspan>
 <tspan x="380" y="154" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">C, Java, Python, Assembly</tspan>
 <tspan x="380" y="171" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">HTML, CSS, LaTeX, Bash</tspan>
 <tspan x="380" y="188" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">Portuguese, English</tspan>
 <tspan x="380" y="222" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">Systems Programming, Emulation</tspan>
 <tspan x="380" y="239" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Hardware</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">35mm Film Photography, Vinyl HiFi</tspan>
-<tspan x="380" y="273">— Contact</tspan> ————————————————————————————————————————————————
-<tspan x="380" y="290" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">teu.email@gmail.com</tspan>
-<tspan x="380" y="307" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Academic</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">teu@ua.pt</tspan>
-<tspan x="380" y="324" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ................................. </tspan><tspan class="value">goncalomoura</tspan>
-<tspan x="380" y="341" class="cc">. </tspan><tspan class="key">Steam</tspan>:<tspan class="cc"> ........................................ </tspan><tspan class="value">MO(A)URA</tspan>
+<tspan x="380" y="324">— Contact</tspan> ————————————————————————————————————————————————
+<tspan x="380" y="341" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">gmmoura501@gmail.com</tspan>
+<tspan x="380" y="358" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Academic</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">gmmoura@ua.pt</tspan>
+<tspan x="380" y="375" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ................................. </tspan><tspan class="value">goncalomoura</tspan>
 
 </text>
 </svg>
