@@ -1,1 +1,1 @@
-<img src="profile.svg" alt="goncalo@moura" width="100%">
+![gmmoura51](./profile.svg)
