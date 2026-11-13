@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" font-family="&#39;JetBrains Mono&#39;,Consolas,Monaco,monospace" font-size="13px" width="960px" height="470px">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Consolas,Monaco,&#39;Lucida Console&#39;,&#39;Liberation Mono&#39;,&#39;DejaVu Sans Mono&#39;,&#39;Bitstream Vera Sans Mono&#39;,&#39;Courier New&#39;,monospace" font-size="13px" width="960px" height="470px" viewBox="0 0 960 470">
 <style>
 .key {fill: #ffa657;}
 .value {fill: #a5d6ff;}
@@ -7,9 +7,8 @@
 .cc {fill: #616e7f;}
 text, tspan {white-space: pre;}
 </style>
-<rect width="960px" height="470px" fill="#0d1117" rx="15" />
-
-<text x="25" y="35" fill="#c9d1d9">
+<rect width="960px" height="470px" fill="#161b22" rx="15" />
+<text x="25" y="35" fill="#c9d1d9" xml:space="preserve">
 <tspan x="25" y="35">               <tspan fill="#947561">!</tspan><tspan fill="#8b6e5a">]</tspan><tspan fill="#846756">t</tspan><tspan fill="#7f604f">c</tspan><tspan fill="#7f5c4d">U</tspan><tspan fill="#7e5c4c">U</tspan><tspan fill="#846453">j</tspan><tspan fill="#886854">|</tspan><tspan fill="#7b5d50">U</tspan><tspan fill="#816860">\</tspan><tspan fill="#8f7b72">"</tspan><tspan fill="#886c5d">{</tspan></tspan>
 <tspan x="25" y="52">              <tspan fill="#82624e">n</tspan><tspan fill="#634336">$</tspan><tspan fill="#593b31">$</tspan><tspan fill="#573831">$</tspan><tspan fill="#482c2a">$</tspan><tspan fill="#54362f">$</tspan><tspan fill="#543531">$</tspan><tspan fill="#462f2e">$</tspan><tspan fill="#523631">$</tspan><tspan fill="#613f35">$</tspan><tspan fill="#5a3b35">$</tspan><tspan fill="#5c3f39">$</tspan><tspan fill="#593e38">$</tspan><tspan fill="#4d3534">$</tspan><tspan fill="#62463e">$</tspan><tspan fill="#806458">r</tspan><tspan fill="#90725e">~</tspan></tspan>
 <tspan x="25" y="69">            <tspan fill="#8a6a56">)</tspan><tspan fill="#75503e">h</tspan><tspan fill="#5e3f34">$</tspan><tspan fill="#462c28">$</tspan><tspan fill="#4f302c">$</tspan><tspan fill="#5d3931">$</tspan><tspan fill="#4a2b27">$</tspan><tspan fill="#4d2e2b">$</tspan><tspan fill="#482a2a">$</tspan><tspan fill="#3a2125">$</tspan><tspan fill="#3e2526">$</tspan><tspan fill="#3f2526">$</tspan><tspan fill="#45282a">$</tspan><tspan fill="#4d2f2e">$</tspan><tspan fill="#4d312f">$</tspan><tspan fill="#503430">$</tspan><tspan fill="#503634">$</tspan><tspan fill="#543c3a">$</tspan><tspan fill="#59403b">$</tspan><tspan fill="#71584d">m</tspan></tspan>
@@ -35,9 +34,8 @@ text, tspan {white-space: pre;}
 <tspan x="25" y="409">   <tspan fill="#ac6e5c">:</tspan><tspan fill="#aa6c59">l</tspan><tspan fill="#ac6d5a">;</tspan><tspan fill="#b1715e">`           </tspan><tspan fill="#ba6e5d">.</tspan><tspan fill="#b46b59">:</tspan><tspan fill="#ae6756">></tspan><tspan fill="#a76352">?</tspan><tspan fill="#a06250">{</tspan><tspan fill="#9d604f">|</tspan><tspan fill="#a96754">~</tspan><tspan fill="#b16b56">I</tspan><tspan fill="#b06b56">II</tspan><tspan fill="#ae6b56">l</tspan><tspan fill="#b06d58">:</tspan><tspan fill="#b26e5a">"</tspan><tspan fill="#b16e5c">"</tspan><tspan fill="#ad6c59">I</tspan><tspan fill="#b16d59">,</tspan><tspan fill="#b76e57">`     </tspan><tspan fill="#b3705c">`</tspan></tspan>
 <tspan x="25" y="426">  <tspan fill="#a86c56">!</tspan><tspan fill="#a36756">__</tspan><tspan fill="#aa6c5a">l</tspan><tspan fill="#b07160">`        </tspan><tspan fill="#aa7160">"</tspan><tspan fill="#a36c60">i</tspan><tspan fill="#aa6c5a">l</tspan><tspan fill="#b06756">i</tspan><tspan fill="#aa6756"><</tspan><tspan fill="#9e6253">{</tspan><tspan fill="#8c5a49">c</tspan><tspan fill="#9e604e">(</tspan><tspan fill="#aa6756"><<<<</tspan><tspan fill="#aa6753">~~</tspan><tspan fill="#aa6c56">l</tspan><tspan fill="#b0715a">^</tspan><tspan fill="#aa6c5a">ll</tspan><tspan fill="#b06c5a">;</tspan><tspan fill="#b37156">`</tspan><tspan fill="#b87156">.</tspan></tspan>
 </text>
-
-<text x="380" y="35" fill="#c9d1d9">
-<tspan x="380" y="35">goncalo@moura</tspan> ————————————————————————————————————————————
+<text x="380" y="35" fill="#c9d1d9" xml:space="preserve">
+<tspan x="380" y="35">gmmoura51@github</tspan> ———————————————————————————————————————————
 <tspan x="380" y="52" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">macOS, Ubuntu 24.04, iOS</tspan>
 <tspan x="380" y="69" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ....................................... </tspan><tspan class="value">20 years</tspan>
 <tspan x="380" y="86" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">Universidade de Aveiro</tspan>
