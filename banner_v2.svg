@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 430" font-family="'JetBrains Mono',Consolas,Monaco,monospace" font-size="13px" width="1080px" height="430px">
+<style>
+.key {fill: #ffa657;}
+.value {fill: #a5d6ff;}
+.cc {fill: #616e7f;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="1080px" height="430px" fill="#0d1117" rx="15" />
+
+<!-- Retrato ASCII -->
+<text x="20" y="32" fill="#c9d1d9" xml:space="preserve" font-size="10px">
+<tspan x="20" y="32">                              <tspan fill="#e8f4f8">.      ;!|!l&lt;x</tspan></tspan>
+<tspan x="20" y="43.2">                             <tspan fill="#e8f4f8">:!-?&gt;!;,``'`l!l;I!;] 1</tspan></tspan>
+<tspan x="20" y="54.400000000000006">                          <tspan fill="#e8f4f8">ft&gt;^"`..           .,..,&lt;"il+1+</tspan></tspan>
+<tspan x="20" y="65.60000000000001">                        <tspan fill="#e8f4f8">~-]&gt;'                      ;";&lt;?}?[</tspan></tspan>
+<tspan x="20" y="76.80000000000001">                        <tspan fill="#e8f4f8">I&gt;,                           I?-++</tspan></tspan>
+<tspan x="20" y="88.00000000000001">                       <tspan fill="#e8f4f8">[,                              ;`l+</tspan></tspan>
+<tspan x="20" y="99.20000000000002">                      <tspan fill="#e8f4f8">I;`                                l~</tspan></tspan>
+<tspan x="20" y="110.40000000000002">                     <tspan fill="#e8f4f8">!..                                 ^-</tspan></tspan>
+<tspan x="20" y="121.60000000000002">                     <tspan fill="#e8f4f8">i"                                  "!</tspan></tspan>
+<tspan x="20" y="132.8">                     <tspan fill="#e8f4f8">;                            . '    .;C</tspan></tspan>
+<tspan x="20" y="144.0">                     <tspan fill="#e8f4f8">!`   !,'.                     ,l     lu</tspan></tspan>
+<tspan x="20" y="155.2">                     <tspan fill="#e8f4f8">l'  +-I,:`      ''           ."i,    iC</tspan></tspan>
+<tspan x="20" y="166.39999999999998">                      <tspan fill="#e8f4f8">,'&lt;}i,:^       ``.'       ^'^!~&gt;   &gt;</tspan></tspan>
+<tspan x="20" y="177.59999999999997">                     <tspan fill="#e8f4f8">C',}-;""^       ' .'        ^^l+~  .</tspan></tspan>
+<tspan x="20" y="188.79999999999995">                       <tspan fill="#e8f4f8">~)-l"'     .^,^ '^`      ^":l_&lt; ;</tspan></tspan>
+<tspan x="20" y="199.99999999999994">                      <tspan fill="#e8f4f8">,_1~;"'...'`:&gt;l' ';I,'    ',!&lt;?~ ,</tspan></tspan>
+<tspan x="20" y="211.19999999999993">                      <tspan fill="#e8f4f8">l+}~I;,"`'.`I""' .^I,.    .^I&lt;-! -</tspan></tspan>
+<tspan x="20" y="222.39999999999992">                     <tspan fill="#e8f4f8">C:+[+ilI,`..'.  .    `  .`^`";!~If</tspan></tspan>
+<tspan x="20" y="233.5999999999999">                      <tspan fill="#e8f4f8">l-}_~!I:^^`'       .`^`'":,:I!&gt;_</tspan></tspan>
+<tspan x="20" y="244.7999999999999">                       <tspan fill="#e8f4f8">1}_~il,.             `":;III!ii1</tspan></tspan>
+<tspan x="20" y="255.9999999999999">                       <tspan fill="#e8f4f8">}[?+iI^                :IlIl!;,</tspan></tspan>
+<tspan x="20" y="267.1999999999999">                        <tspan fill="#e8f4f8">[]+i,`''''            ,;I;ll</tspan></tspan>
+<tspan x="20" y="278.39999999999986">                        <tspan fill="#e8f4f8">-_+i:``^'         .`. ^,:II,</tspan></tspan>
+<tspan x="20" y="289.59999999999985">                         <tspan fill="#e8f4f8">-&gt;l;,,"`..          .^":;&lt;</tspan></tspan>
+<tspan x="20" y="300.79999999999984">                         <tspan fill="#e8f4f8">]i,'`"^`         ....'`"]</tspan></tspan>
+<tspan x="20" y="311.99999999999983">                       <tspan fill="#e8f4f8">~^`l^                   ',I</tspan></tspan>
+<tspan x="20" y="323.1999999999998">         <tspan fill="#e8f4f8">C]~&gt;!lIl!i&lt;&lt;i;^  ;,.                  '""",</tspan></tspan>
+<tspan x="20" y="334.3999999999998">       <tspan fill="#e8f4f8">iil;:::::::II:`.   I:.                 .'''``,:I</tspan></tspan>
+<tspan x="20" y="345.5999999999998">       <tspan fill="#e8f4f8">^^``''```^",`.  `",l"                  '..  .`^^""",;</tspan></tspan>
+<tspan x="20" y="356.7999999999998">               <tspan fill="#e8f4f8">.^;I:` .":ll^.                '''.      ````^""",:</tspan></tspan>
+<tspan x="20" y="367.9999999999998">             <tspan fill="#e8f4f8">.'"Ii!lI;:Ili:`.       .        `^'      ''''''`````^,,</tspan></tspan>
+<tspan x="20" y="379.19999999999976">         <tspan fill="#e8f4f8">.`^",;ll!ll!lll,"`..               .^`   .''```````'...'`"^</tspan></tspan>
+<tspan x="20" y="390.39999999999975">       <tspan fill="#e8f4f8">`^",::::::,,,,"^^` ...               .'.''``^^^^``''''''''`"^</tspan></tspan>
+<tspan x="20" y="401.59999999999974">       <tspan fill="#e8f4f8">,,:,"^``'`''`^````'.'..   ...          .''''``'''.  ...''''``</tspan></tspan>
+<tspan x="20" y="412.7999999999997">       <tspan fill="#e8f4f8">^^"^'.    ..'`^^^^^^^'..'''..                 .     .......'.</tspan></tspan>
+<tspan x="20" y="423.9999999999997">       <tspan fill="#e8f4f8">^^`'.    .''`^"",""^`''..'..                 ..   ...'''''''.</tspan></tspan>
+<tspan x="20" y="435.1999999999997">        <tspan fill="#e8f4f8">'.       .'''`^^^``'''                             .......'.</tspan></tspan>
+</text>
+
+<!-- Painel estilo Andrew6rant -->
+<text x="480" y="56" fill="#c9d1d9" xml:space="preserve">
+<tspan x="480" y="56">goncalo@moura</tspan> ————————————————————————————————————————————
+<tspan x="480" y="74" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">macOS, Ubuntu 24.04, Windows, iOS</tspan>
+<tspan x="480" y="92" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ....................................... </tspan><tspan class="value">20 years</tspan>
+<tspan x="480" y="110" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">Universidade de Aveiro</tspan>
+<tspan x="480" y="128" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Computer Engineering (LECI)</tspan>
+<tspan x="480" y="146" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ...................................... </tspan><tspan class="value">VSCode, Vim</tspan>
+<tspan x="480" y="182" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">C, Java, Python, Assembly</tspan>
+<tspan x="480" y="200" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">HTML, CSS, LaTeX, Bash</tspan>
+<tspan x="480" y="218" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">Portuguese, English</tspan>
+<tspan x="480" y="254" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">Systems Programming, Emulation</tspan>
+<tspan x="480" y="272" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Hardware</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">35mm Film Photography, Vinyl HiFi</tspan>
+<tspan x="480" y="308">— Contact</tspan> ————————————————————————————————————————————————
+<tspan x="480" y="326" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">gmmoura501@gmail.com</tspan>
+<tspan x="480" y="344" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Academic</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">gmmoura@ua.pt</tspan>
+<tspan x="480" y="362" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ................................. </tspan><tspan class="value">goncalomoura</tspan>
+</text>
+</svg>
